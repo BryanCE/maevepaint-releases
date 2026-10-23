@@ -1,6 +1,6 @@
 ---
 name: Something's wrong
-about: Report a crash, a bug, or something that doesn't work as it should
+about: Report a crash, a bug, or something that doesn't work right
 labels: bug
 ---
 
@@ -15,10 +15,13 @@ labels: bug
 2.
 3.
 
-**MaevePaint version** (Help > About MaevePaint)
+**MaevePaint version**
+It's under Help > About MaevePaint.
 
 
-**Windows version** (for example Windows 11 24H2)
+**System**
+For example Windows 11 24H2, or Linux Mint 22.2 Cinnamon.
 
 
-**Screenshot** (optional, drag it in here)
+**Screenshot**
+Optional. Drag it in here.
