@@ -1,5 +1,69 @@
 # Changelog
 
+## 0.1.7
+
+- A new **Magic** tab with Blur, Smudge, Push and Kaleidoscope. Kaleidoscope folds the whole
+  picture into mirrored wedges, and dragging slides the picture under the mirrors.
+- Every drawing tool has a **Kaleidoscope** section that repeats each stroke around the middle
+  of the page, or the middle of the view on open paper.
+- Mandelbrot and Julia fractal paint, in the **More colors** window. Brushes, fills, Recolor and
+  filled shapes can all paint with it.
+- The Move tool picks what it takes hold of: one thing, everything touching it, or everything.
+  It can move, copy, or turn and size. Turn and size puts a frame around what's picked, with
+  corners to drag for size, a knob to drag for turning, and Flip buttons for sideways and upside
+  down.
+- The pen comes first on the tool rail.
+- The pencil starts at 8B, so it shows up on paper. Soft pencils draw a solid line even when
+  small.
+- Smudging inside the lines stays inside the lines.
+
+## 0.1.6
+
+- The grown-ups' window has separate **Pictures** and **Stickers** pages. Each lists every set
+  once, with its switch to hide it, **Remove** for a downloaded set and **Install** for one you
+  don't have yet. A row shows how many pictures or stickers a set has, its size and its license.
+
+## 0.1.5
+
+- Update the app from the grown-ups' window. **Updates** checks GitHub for a newer version,
+  then downloads it, checks the download, installs it and restarts. Your picture is saved
+  first.
+- The app keeps a log file, `maevepaint.log`, in its data folder. It records what went wrong
+  and any time the app froze.
+- Saving never holds up drawing.
+
+## 0.1.4
+
+- A quick fix to 0.1.3.
+
+## 0.1.3
+
+- New brushes: Gel pen, Inky pen, Colored pencil, Oil pastel, Sidewalk chalk, Splatter and
+  Glitter spray. Any brush can sparkle.
+- Crayon, chalk, oil pastel and sidewalk chalk lay one smooth mark instead of showing each dab.
+- White ink in a see-through brush shows up on dark colors.
+- Turn a sticker by dragging around where you pressed. With a second finger, pinch to size it
+  and twist to turn it.
+- Rainbow paint shows a rainbow ring around the color and a rainbow bar under the colors.
+  Picking a plain color turns it off.
+- Bigger text in the kids' window.
+- Simple mode:
+  - One size slider for every tool.
+  - Paint and pens never run dry.
+  - No zooming, and a second finger doesn't stop the stroke.
+  - The stickers tool is included.
+  - Big tiles in narrow sidebars.
+- The grown-ups' window has a dark mode switch on the **Child** page.
+- Spray paint and the airbrush start stronger.
+
+## 0.1.2
+
+- Touch works properly on Linux. The first finger draws, two fingers pan and zoom, and a finger
+  drag scrolls lists.
+- A lost finger or mouse release no longer leaves drawing stuck.
+- Saving runs in the background, so dragging a slider saves once at the end instead of at every
+  step.
+
 ## 0.1.1
 
 - Download picture and sticker sets from inside the app, in the grown-ups' window under

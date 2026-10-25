@@ -1,15 +1,18 @@
 # MaevePaint
 
 A paint program for kids. It has pencils, inks, paint that blends, spray, chalk, fills, shapes and
-stickers. Everything makes a sound, and undo never runs out. Kids draw on blank paper or color in
-pages from the picture library.
+stickers, plus magic like blur and a kaleidoscope. Everything makes a sound, and undo never runs
+out. Kids draw on blank paper or color in pages from the picture library.
 
 Grown-ups get a separate window with settings the child never sees: which picture and sticker
-sets show up, what each thing sounds like, and downloading more sets.
+sets show up, what each thing sounds like, downloading more sets and updating the app.
 
 ## Download
 
-Get it from the [latest release](https://github.com/BryanCE/maevepaint-releases/releases/latest).
+- **The app:** [latest release](https://github.com/BryanCE/maevepaint-releases/releases/latest)
+- **Coloring pages and stickers:** [picture and sticker library](https://github.com/BryanCE/maevepaint-releases/releases/tag/library).
+  The app downloads these for you from the grown-ups' window, so you only need this link to
+  see what's there.
 
 ### Linux Mint, Ubuntu and Debian
 
@@ -30,15 +33,21 @@ protected your PC". Click **More info**, then **Run anyway**.
 
 ## Coloring pages and stickers
 
-The app starts with no picture or sticker sets, so the download stays small. To add some, open
-the grown-ups' window with the gear button at the top right or **File > Settings**. Go to
-**Content > Get more** and install the sets you want. They come from this repo's
-[picture and sticker library](https://github.com/BryanCE/maevepaint-releases/releases/tag/library)
-release.
+The app starts with no picture or sticker sets, so the download stays small. To add some, open the
+grown-ups' window with the gear button at the top right or **File > Settings**. Go to the
+**Pictures** or **Stickers** page and click **Install** on the sets you want. They come from this
+repo's [picture and sticker
+library](https://github.com/BryanCE/maevepaint-releases/releases/tag/library) release.
 
 The sets come from NASA, NOAA, the National Park Service, the USDA Forest Service, Wikimedia
 Commons, FreeSVG, OpenMoji, Tux Paint and a few others. Kids pick pictures by topic, like
-Dinosaurs, Space, Ocean or Animals. You can turn any set off to hide it.
+Dinosaurs, Space, Ocean or Animals. You can turn any set off to hide it, and remove any set you
+downloaded.
+
+## Updates
+
+The grown-ups' window's **Updates** page checks for a newer version. **Update** downloads it,
+installs it and restarts the app, saving the picture first.
 
 ## Where things are saved
 
@@ -46,7 +55,7 @@ Pictures go in the `MaevePaint` folder inside your Pictures folder. Each one sav
 and closing it writes a PNG next to it.
 
 Settings and downloaded sets go in `%APPDATA%\MaevePaint\data` on Windows and
-`~/.local/share/maevepaint` on Linux.
+`~/.local/share/maevepaint` on Linux. The log file, `maevepaint.log`, is in the same folder.
 
 None of it leaves your computer. [PRIVACY.md](PRIVACY.md) has the details.
 
@@ -72,4 +81,5 @@ Check the [open issues](https://github.com/BryanCE/maevepaint-releases/issues) f
 already reported it, react to theirs with 👍 or add a comment instead of opening a new one.
 
 For a bug, say which version you're running and how to make it happen again. The version is
-under **Help > About MaevePaint**. A screenshot helps a lot.
+under **Help > About MaevePaint**. A screenshot helps a lot, and so does `maevepaint.log` from
+the folder under [Where things are saved](#where-things-are-saved).
