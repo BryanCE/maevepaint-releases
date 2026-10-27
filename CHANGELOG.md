@@ -27,6 +27,19 @@
   It can move, copy, or turn and size. Turn and size puts a frame around what's picked, with
   corners to drag for size, a knob to drag for turning, and Flip buttons for sideways and upside
   down.
+- Stickers come in topics, like coloring pages. The **Stickers** tool has a button at the top
+  named for the topic showing, such as **Birds**. Tap it to pick another topic. Each sticker's
+  tile takes its shape, so tall and wide stickers show whole.
+- Many Tux Paint stickers say their name and make their sound when you pick one, like a bird's
+  song. The sound fades away as soon as you do something else. If you installed the
+  **Tux Paint stamps** before this version, **Remove** them on the **Stickers** page and
+  **Install** them again to get the sounds.
+- The **Mirror** and **Upside down** switches are gone from the Stickers tool. To flip a sticker,
+  use the **Move** tool's **Sideways** and **Upside down** buttons.
+- Making a sticker big or turning it no longer freezes the app, and turning or sizing with
+  **Move** is smoother.
+- Stickers and pictures have clean edges, without a dark outline.
+- Quieter sounds for buttons, sidebars, switches, **Home**, **Fit**, zooming, undo and redo.
 - The pen comes first on the tool rail.
 - The pencil starts at 8B, so it shows up on paper. Soft pencils draw a solid line even when
   small.
