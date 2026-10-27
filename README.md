@@ -41,8 +41,9 @@ library](https://github.com/BryanCE/maevepaint-releases/releases/tag/library) re
 
 The sets come from NASA, NOAA, the National Park Service, the USDA Forest Service, Wikimedia
 Commons, FreeSVG, OpenMoji, Tux Paint and a few others. Kids pick pictures by topic, like
-Dinosaurs, Space, Ocean or Animals. You can turn any set off to hide it, and remove any set you
-downloaded.
+Dinosaurs, Space, Ocean or Animals. Stickers come in topics too. You can turn any set off to hide
+it, and remove any set you downloaded. When a newer version of a set you downloaded comes out, its
+row shows **Update**.
 
 ## Updates
 

@@ -8,7 +8,7 @@ on Windows and `~/.local/share/maevepaint` on Linux.
 
 The app goes online only from the grown-ups' window. The **Pictures** and **Stickers** pages read
 the list of sets from this repo's `library` release on GitHub, and download the sets the grown-up
-installs from the same place. **Check for updates** on the **Updates** page asks this repo's
+installs or updates from the same place. **Check for updates** on the **Updates** page asks this repo's
 releases on GitHub for a newer version, and **Update** downloads it from there. GitHub sees your IP
 address, as it does for any download, and its [privacy
 statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
