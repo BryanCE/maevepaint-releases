@@ -11,15 +11,18 @@
   - **Kaleidoscope** repeats each stroke around the middle of the page, or the middle of the
     view on open paper, with **Sides** and **Mirror**.
   - **Fractal sprouts** grows little Julia, Mandelbrot or Burning Ship fractals out from each
-    stroke, in bands of the stroke's color. Pick the **Shape**, **Size**, **Spacing** and
-    **Colors**. **More** has the rest, including the Julia shape, a Mandelbrot map to tap and
-    **Walk**.
+    stroke, in bands of the stroke's color. Pick the **Shape**, **Size**, **Spacing**,
+    **Colors** and **Color by**, which bands by **Equation** or **Distance**. **More** has the
+    rest, including the Julia shape, a Mandelbrot map to tap and **Walk**.
 - Mandelbrot, Julia and Burning Ship fractal paint, in the **More colors** window, with
   **Colors**, **Size** and **Turn**. Brushes, fills, Recolor and filled shapes can all paint
   with it.
 - **View > Picture on top** moves a coloring page's picture over or under the drawing, so paint
   can cover a picture that opened as line art. Undo moves it back.
 - **Reset to defaults** in a brush's **Brush** tab also turns off its magic.
+- **Triangle**, **Star** and **Polygon** join the **Shapes** tab, and each can be filled like the
+  rectangle and ellipse. Pick a star's **Points** and a polygon's **Sides**.
+- The Fill shape tool is gone. **Fill** colors in a shape instead.
 - The Move tool picks what it takes hold of: one thing, everything touching it, or everything.
   It can move, copy, or turn and size. Turn and size puts a frame around what's picked, with
   corners to drag for size, a knob to drag for turning, and Flip buttons for sideways and upside
