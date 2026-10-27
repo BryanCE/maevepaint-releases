@@ -32,8 +32,10 @@
   tile takes its shape, so tall and wide stickers show whole.
 - Many Tux Paint stickers say their name and make their sound when you pick one, like a bird's
   song. The sound fades away as soon as you do something else. If you installed the
-  **Tux Paint stamps** before this version, **Remove** them on the **Stickers** page and
-  **Install** them again to get the sounds.
+  **Tux Paint stamps** before this version, click **Update** beside them on the **Stickers** page
+  to get the sounds.
+- A set you installed shows **Update** on the **Pictures** or **Stickers** page when there's a
+  newer version of it to download.
 - The **Mirror** and **Upside down** switches are gone from the Stickers tool. To flip a sticker,
   use the **Move** tool's **Sideways** and **Upside down** buttons.
 - Making a sticker big or turning it no longer freezes the app, and turning or sizing with
