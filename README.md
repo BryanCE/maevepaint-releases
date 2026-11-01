@@ -25,6 +25,9 @@ Graphics.
 It runs on Linux Mint 22 and newer, Ubuntu 24.04 and newer, and Debian 13. It needs an X11
 desktop. Linux Mint's Cinnamon is X11 out of the box.
 
+On either system it needs an Intel processor from 2013 or later, or an AMD one from 2015 or
+later.
+
 ### Windows
 
 Download `maevepaint.exe`. There's nothing to install, so put it anywhere and run it. It needs

@@ -2,6 +2,8 @@
 
 ## 0.1.8
 
+- MaevePaint now needs a computer from about 2013 or later: an Intel processor from 2013 on or
+  an AMD one from 2015 on. In return, painting and magic run faster.
 - Pictures saved by 0.1.7 or earlier won't open in this version. The app starts a new picture
   in their place, and the old files stay where they were. To keep one, open it in 0.1.7 first
   and save it as a **PNG picture**.
@@ -20,9 +22,14 @@
 - Soft brushes fade out more smoothly at their edges, with no stripes, and light, see-through
   paint keeps its color instead of turning dull.
 - Undo, redo and the eraser are much faster, even on a picture with lots of strokes.
-- **Kaleidoscope** and **Fractal fold** keep up while you drag. **Fractal fold** shows a rough
-  picture while you drag and sharpens it as soon as you hold still.
-- Big pictures draw faster, and pictures open faster.
+- **Kaleidoscope** and **Fractal fold** keep up while you drag. On a slower computer, or zoomed
+  far out, they show a rough picture while you drag and sharpen it as soon as you hold still.
+- Zoomed far out on a slower computer, pressing or letting go with **Kaleidoscope** or
+  **Fractal fold**, or drawing fast with a marker, no longer freezes the app for seconds. A
+  stroke that falls behind catches up over a moment instead.
+- Big pictures draw faster, and pictures open without freezing the app.
+- The app does less work while nothing is happening, so it's lighter on older laptops and
+  their batteries.
 - When the computer runs low on memory, the app keeps less in memory, and it flattens the
   oldest strokes into the page so they can't be moved or recolored on their own anymore. The
   newest strokes stay as they were.
