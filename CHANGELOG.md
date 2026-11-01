@@ -27,7 +27,10 @@
 - Zoomed far out on a slower computer, pressing or letting go with **Kaleidoscope** or
   **Fractal fold**, or drawing fast with a marker, no longer freezes the app for seconds. A
   stroke that falls behind catches up over a moment instead.
-- Big pictures draw faster, and pictures open without freezing the app.
+- Big pictures draw faster. Pictures open at once, even big ones, using a small part of the
+  memory they used to, and the first stroke after opening doesn't wait.
+- Letting go of a stroke, and undoing right after one, no longer pause the app on big pictures.
+- Markers, paint brushes and the other brushes lay paint faster while you draw.
 - Moving, copying, turning and sizing with the **Move** tool keep up on big pictures. The app
   works on the part you can see while you drag, and finishes the rest when it's needed.
 - Placing a sticker keeps up while you drag, pinch or twist it.
