@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.1.8
+
+- Pictures saved by 0.1.7 or earlier won't open in this version. The app starts a new picture
+  in their place, and the old files stay where they were. To keep one, open it in 0.1.7 first
+  and save it as a **PNG picture**.
+- A new **Lasso** tool in the **Draw** tab, after **Fill**. Draw a loop around a space and it
+  fills in with your paint. Let go anywhere: it closes back to where you started. It has its
+  own **Fill** settings, like the filled shapes.
+- Brushes follow a pen more closely. Pressing harder and tilting the pen can change a brush's
+  size, softness, shape, how much paint it lays, and its color.
+- A tilted pen leans the brush onto its side for a wider mark. Paint brushes, crayon, colored
+  pencil, oil pastel, chalk and sidewalk chalk now have the **Tilt** slider that pencils had,
+  and a tilted pen leans them further.
+- Brushes look more like the real thing. The pen starts each line from a point and wavers a
+  little in width, markers and pencils lay a slightly uneven tone, paint and crayon colors
+  wander a little along a stroke, and lettering pens roll a little in the hand. Chalk, sidewalk
+  chalk and oil pastel cover the paper in one pass.
+- Soft brushes fade out more smoothly at their edges, with no stripes, and light, see-through
+  paint keeps its color instead of turning dull.
+- Undo, redo and the eraser are much faster, even on a picture with lots of strokes.
+- **Kaleidoscope** and **Fractal fold** keep up while you drag. **Fractal fold** shows a rough
+  picture while you drag and sharpens it as soon as you hold still.
+- Big pictures draw faster, and pictures open faster.
+- When the computer runs low on memory, the app keeps less in memory, and it flattens the
+  oldest strokes into the page so they can't be moved or recolored on their own anymore. The
+  newest strokes stay as they were.
+- When the computer is almost out of memory, the canvas frosts over and stops taking paint,
+  panning and zooming until memory frees up. Everything drawn is already saved.
+
 ## 0.1.7
 
 - A new **Magic** tab with Blur, Smudge, Push, Kaleidoscope and Fractal fold. Kaleidoscope folds

@@ -1,11 +1,13 @@
 # MaevePaint
 
-A paint program for kids. It has pencils, inks, paint that blends, spray, chalk, fills, shapes and
-stickers, plus magic like blur and a kaleidoscope. Everything makes a sound, and undo never runs
-out. Kids draw on blank paper or color in pages from the picture library.
+A paint program for kids. It has pencils, inks, paint that blends, spray, chalk, fills, a lasso
+that fills in the loop you draw, shapes and stickers, plus magic like blur, smudge and a
+kaleidoscope. Everything makes a sound, and undo never runs out. Kids draw on blank paper or
+color in pages from the picture library.
 
-Grown-ups get a separate window with settings the child never sees: which picture and sticker
-sets show up, what each thing sounds like, downloading more sets and updating the app.
+Grown-ups get a separate window with settings the child never sees: simple mode's big tiles or
+every tool, which picture and sticker sets show up, what each thing sounds like, downloading
+more sets and updating the app.
 
 ## Download
 
@@ -16,8 +18,8 @@ sets show up, what each thing sounds like, downloading more sets and updating th
 
 ### Linux Mint, Ubuntu and Debian
 
-Download `maevepaint_<version>_amd64.deb` and double-click it, or run
-`sudo apt install ./maevepaint_<version>_amd64.deb`. MaevePaint then shows up in the menu under
+Download `maevepaint_<version>-1_amd64.deb` and double-click it, or run
+`sudo apt install ./maevepaint_<version>-1_amd64.deb`. MaevePaint then shows up in the menu under
 Graphics.
 
 It runs on Linux Mint 22 and newer, Ubuntu 24.04 and newer, and Debian 13. It needs an X11
@@ -47,8 +49,10 @@ row shows **Update**.
 
 ## Updates
 
-The grown-ups' window's **Updates** page checks for a newer version. **Update** downloads it,
-installs it and restarts the app, saving the picture first.
+**Check for updates** on the grown-ups' window's **Updates** page looks for a newer version.
+**Update** downloads it, installs it and restarts the app, saving the picture first. On Linux it
+asks for your password to install the new package, and only a copy installed from the `.deb`
+can update itself.
 
 ## Where things are saved
 
