@@ -28,6 +28,12 @@
   **Fractal fold**, or drawing fast with a marker, no longer freezes the app for seconds. A
   stroke that falls behind catches up over a moment instead.
 - Big pictures draw faster, and pictures open without freezing the app.
+- Moving, copying, turning and sizing with the **Move** tool keep up on big pictures. The app
+  works on the part you can see while you drag, and finishes the rest when it's needed.
+- Placing a sticker keeps up while you drag, pinch or twist it.
+- The **Stickers** list opens and scrolls faster, even with lots of stickers.
+- Pencils, bristly brushes, runny paint, filled shapes and outlines keep up better on long
+  strokes.
 - The app does less work while nothing is happening, so it's lighter on older laptops and
   their batteries.
 - When the computer runs low on memory, the app keeps less in memory, and it flattens the
