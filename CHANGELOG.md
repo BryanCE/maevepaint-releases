@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.1.9
+
+- **Pictures no longer save on their own.** Use **File > Save** to keep a picture. Closing the
+  app or installing an update with a picture you haven't saved loses it, and the app doesn't
+  ask first.
+- The app starts with a new picture instead of reopening the last one, and closing a picture no
+  longer writes a PNG next to it. **File** lists the last three pictures, so one click opens
+  them again.
+- Four new tools in the **Magic** tab. **Mirror** shows one side of the picture reflected in the
+  other, **Flip** turns the whole picture over the way you drag, **Swirl** twists it, and
+  **Mosaic** turns it into little squares of color.
+- **Kaleidoscope** and **Fractal fold** reach everything drawn on open paper, not just what's in
+  the window.
+- Every brush keeps up better zoomed far out, drawing at the size you can see and sharpening
+  right after you let go.
+- Brushes keep up on slower computers, laying as much paint as each frame has time for.
+- Big filled shapes take far less memory, and pictures with them open faster.
+- **Clear** is instant, even on a big picture.
+- On Linux, the mouse draws under window managers that hold the Alt or Super key.
+
 ## 0.1.8
 
 - MaevePaint now needs a computer from about 2013 or later: an Intel processor from 2013 on or

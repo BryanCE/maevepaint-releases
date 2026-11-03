@@ -3,8 +3,8 @@
 MaevePaint collects nothing. It has no accounts, no ads, no analytics and no tracking.
 
 Pictures, settings, downloaded sets and the app's log file stay on your computer. Pictures go in the
-`MaevePaint` folder inside your Pictures folder. Everything else goes in `%APPDATA%\MaevePaint\data`
-on Windows and `~/.local/share/maevepaint` on Linux.
+folder you save them to. Everything else goes in `%APPDATA%\MaevePaint\data` on Windows and
+`~/.local/share/maevepaint` on Linux.
 
 The app goes online only from the grown-ups' window. When the **Pictures** or **Stickers** page
 first opens, it reads the list of sets from this repo's `library` release on GitHub. The sets the

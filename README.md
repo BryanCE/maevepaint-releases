@@ -53,14 +53,15 @@ row shows **Update**.
 ## Updates
 
 **Check for updates** on the grown-ups' window's **Updates** page looks for a newer version.
-**Update** downloads it, installs it and restarts the app, saving the picture first. On Linux it
-asks for your password to install the new package, and only a copy installed from the `.deb`
-can update itself.
+**Update** downloads it, installs it and restarts the app, so save the picture first with
+**File > Save**. On Linux it asks for your password to install the new package, and only a copy
+installed from the `.deb` can update itself.
 
 ## Where things are saved
 
-Pictures go in the `MaevePaint` folder inside your Pictures folder. Each one saves as you draw,
-and closing it writes a PNG next to it.
+Pictures are saved only when you use **File > Save**, in the folder you pick. The Save window
+starts in the `MaevePaint` folder inside your Pictures folder. A picture you haven't saved is
+lost when the app closes.
 
 Settings and downloaded sets go in `%APPDATA%\MaevePaint\data` on Windows and
 `~/.local/share/maevepaint` on Linux. The log file, `maevepaint.log`, is in the same folder.
