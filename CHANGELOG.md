@@ -19,6 +19,11 @@
 - Big filled shapes take far less memory, and pictures with them open faster.
 - **Clear** is instant, even on a big picture.
 - On Linux, the mouse draws under window managers that hold the Alt or Super key.
+- Zooming in or out shows a rough picture at once and sharpens it from the middle of the
+  window out, and letting go of a stroke zoomed out no longer makes the picture flicker.
+- **Move** picks up thin lines without aiming at the exact pixel: a press near one takes it.
+- **Move** works on whole-picture magic such as **Mirror**: dragging, turning or sizing it moves
+  the paint it makes, and what it covers stays covered.
 
 ## 0.1.8
 
