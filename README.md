@@ -1,8 +1,9 @@
 # MaevePaint
 
 A paint program for kids. It has pencils, inks, paint that blends, spray, chalk, fills, a lasso
-that fills in the loop you draw, shapes and stickers, plus magic like blur, smudge and a
-kaleidoscope. Everything makes a sound, and undo never runs out. Kids draw on blank paper or
+that fills in the loop you draw, shapes and stickers, plus magic: blur, smudge, push, a
+kaleidoscope, a fractal fold, a mirror, flip, swirl and mosaic. Everything makes a sound, and
+undo never runs out. Kids draw on blank paper or
 color in pages from the picture library.
 
 Grown-ups get a separate window with settings the child never sees: simple mode's big tiles or
