@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.1.10
+
+- Pictures saved by 0.1.9 won't open in this version. To keep one, open it in 0.1.9 first and
+  save it as a **PNG picture**.
+- **Move** has a new **Animate** button. Pick something, drag it around, and it plays that move
+  over and over. Drag it again for a new move, or tap it to make it stop. Several things can
+  play at once, and moves are saved with the picture.
+- **Animate** has a **Smoothing** slider. At 0 it keeps every wiggle of the hand, and higher
+  evens the move out.
+- **Fractal fold** in the **Magic** tab is now called **Fractal**.
+- **Mirror**, **Flip**, **Swirl**, **Mosaic**, **Kaleidoscope** and **Fractal** keep up better
+  while you drag, working only on the part of the picture in the window.
+- The eraser keeps up better, and letting go of it no longer pauses the app.
+- **Move** with **Everything** picked keeps up better on big pictures.
+- **Fill** and the filling of small gaps in lines are faster.
+- The picture draws faster while painting, zooming and panning.
+
 ## 0.1.9
 
 - **Pictures no longer save on their own.** Use **File > Save** to keep a picture. Closing the
