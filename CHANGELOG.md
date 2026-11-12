@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.1.11
+
+- A new **Life** brush in **Airbrushing**: paint that comes alive. Draw to sprinkle cells, and
+  they keep growing and changing by themselves after you let go. Click again to stop them where
+  they are.
+- **Life** has sliders for **Speed**, **Cell size** and **Room**, which sets how far the cells
+  can spread. **Rule** picks how the cells behave: **Classic**, **Copycat**, **Maze**,
+  **Day and night**, **Sparks** or **Coral**. **Paints** picks **Living cells**, so the picture
+  moves, or **Trails**, so every spot a cell has lived in stays painted.
+- The **Line** tool has a new **Draw** choice:
+  - **Stretch** works as before: press, drag and let go.
+  - **Two clicks:** click where the line starts, then where it ends.
+  - **Segments:** every click adds a corner. Click the last corner again to finish, or the
+    first one to close the shape.
+  - **Curve:** click to add a point, or press and drag to bend the line through it. Drag a point
+    or a handle to change the curve. **Points** picks **Smooth** or **Corner** for each point.
+- While drawing a line click by click, **Undo** takes back the last point, **Escape** drops the
+  whole line, and **Enter** finishes it. Arrows work in every way of drawing.
+- The picture catches up faster while you paint.
+
 ## 0.1.10
 
 - Pictures saved by 0.1.9 won't open in this version. To keep one, open it in 0.1.9 first and
